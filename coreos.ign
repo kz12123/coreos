@@ -1,0 +1,25 @@
+{
+  "ignition": {
+    "config": {
+      "replace": {
+        "source": null,
+        "verification": {}
+      }
+    },
+    "security": {
+      "tls": {}
+    },
+    "timeouts": {},
+    "version": "3.0.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCeftVpk3lQjqgRrtoPFGYpFOFZdkiisw+DN2pOqGT4jyAS8Nrh+vqN8EN1r9ASPOGnckHjHwUyr7KEW6lmPQyoUoPPWSJ9JEQPtlDQ12eLEbG1+Sbvq3sfNqYKVhCbANIFsuGk6gH7bBe6uPlptrQ9YW4K4sDCF4frktJ7FtryHJq1K1UEHNC1DMaewqBbOLqrmtoBMa9Luij8tnSG9qV0QtwaanHLkHqxvHllr/qSpt94betJiXNbFUedZyP0FhBIQIiKgCbVBdN0RBD8rwoj0Ep5+IlTvpdRbtPyxPWQhGxG7QGfSvrkj8VGCR42q4d1D+829lwUQGNWd5QuDCHt taranjit@TARANJIT-M-NFC7"
+        ]
+      }
+    ]
+  }
+}
